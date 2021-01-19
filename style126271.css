@@ -1,0 +1,112 @@
+.body{
+    font-family: 'Lato', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    margin-right: 4%;
+}
+.highlight{
+    color: red;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 450px;
+    
+}
+
+
+
+.work{
+    text-align: center;
+}
+.column{
+    float: left;
+    padding: 3%;
+}
+.row{
+    display: flex;
+}
+.column img{
+width: 100%;
+}
+
+.work-inquiry{
+    color: 
+    peru;
+    width: 60%;
+    float: left;
+    padding-top: 4%;
+    padding-left: 3%;
+    margin-right: 2%;
+    margin-left: 2%;
+
+}
+.chat{
+    background-image: url(shapes/Group_33094_1.png);
+    width: 70%;
+    height: 50%;
+    background-size: 100% 100%;
+    padding-left: 10%;
+    padding-top: 12%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    
+}
+.work-inquiry h1{
+    font-size: 30px;
+    margin-left: 5%;
+    padding-left: 15%;
+    padding-top: 10%;
+}
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,tomato,white);
+    padding: 25 60px;
+    color: rosybrown;
+    border-radius: 8px;
+    font-size: 25px;
+    
+}
+.button-chat{
+
+    padding-right: 5%;
+    padding-top: 3%;
+    justify-content: center;
+    align-items: center;
+}
+.designs{
+    text-align: center;
+    font-size: 100px;
+}
+.social-media{
+   
+    
+
+    justify-content: center;
+    align-items: center;
+}
+img{
+    
+
+
+    margin-left: 17%;
+}
+.colorful{
+    color: yellow;
+}
